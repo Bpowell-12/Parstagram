@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ezgif.com-video-to-gif-9.gif' width=250 />
+<img src='ezgif.com-video-to-gif-10.gif' width=250 />
 
 # Parstagram - Part I
 
